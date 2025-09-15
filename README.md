@@ -2,8 +2,9 @@
 
 Carbon Watch is a lightweight browser extension that estimates the carbon footprint of your web browsing.  
 It tracks the amount of data transferred on each website you visit and converts it into an estimated CO₂ emission, giving users awareness of the environmental impact of digital activity.  
-https://github.com/user-attachments/assets/6d7123a9-8412-49c4-82e8-1d4c35bf48d8
+
 ---
+https://github.com/user-attachments/assets/6d7123a9-8412-49c4-82e8-1d4c35bf48d8
 
 ## ✨ Features
 
