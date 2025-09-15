@@ -48,10 +48,10 @@ The popup shows:
 1. Clone this repository:
 ```bash
 git clone https://github.com/amna55/CarbonWatch-BrowserExtension.git
-   Energy is multiplied by an average grid factor of `475 g CO₂ per kWh`.  
+   Energy is multiplied by an average grid factor of `475 g CO₂ per kWh`.
 
 
-
+---
 
 https://github.com/user-attachments/assets/6d7123a9-8412-49c4-82e8-1d4c35bf48d8
 
